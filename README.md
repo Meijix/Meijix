@@ -1,4 +1,4 @@
-# Hi there 👋. ✨ I´m _Natalia_ ✨
+# Hi there 👋. ✨ I'm _Natalia_ ✨
 <!--
 **Meijix/Meijix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 I´m a math student. Currently learning software development.
 - 🚀🔭 My interest areas are rocketry and physics.
-- I´m curious about the latest tendencies in tech.
+- ⚡😄 I'm curious about the latest tendencies in tech.
 
 
 💬 Make me suggestions:
 - 📫 Email: nmejia30@ciencias.unam.mx
-- 📫 Personal emial: natalia.mejbau@gmail.com
+- 📫 Personal email: natalia.mejbau@gmail.com
 
 
 ## 🌐 Socials:
