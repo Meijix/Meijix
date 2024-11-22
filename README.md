@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-I´m a math student. Currently learning software development.
+I´m a math student. Particularly learning about numerical integration methods for ODEs and PDEs.  Currently learning software development.
 - 🚀🔭 My interest areas are rocketry and physics.
 - ⚡😄 I'm curious about the latest tendencies in tech.
 
